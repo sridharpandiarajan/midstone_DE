@@ -1,0 +1,4 @@
+data/
+*.zip
+config.py
+.env
